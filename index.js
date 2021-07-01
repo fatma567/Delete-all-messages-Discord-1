@@ -1,4 +1,5 @@
-var before = ''; // here id of message
+var before = https://discord.com/channels/@me/808265733938216980#:~:text=!%20clear%2050,MEE6
+
 clearMessages = function(){
     const authToken = document.body.appendChild(document.createElement`iframe`).contentWindow.localStorage.token.replace(/"/g, "");
     const channel = window.location.href.split('/').pop();
